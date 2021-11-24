@@ -1,7 +1,12 @@
 # PLL-IC-Design-Using-Open-Source-PDKs
 Phase-Locked Loop IC design on Open-Source Google-Skywater 130nm node
 
-![VSD Poster](https://github.com/samadritasarkar2/PLL-IC-Design-Using-Open-Source-PDKs/edit/main/README.md)
+![VSD Poster](https://user-images.githubusercontent.com/65411629/127780909-65694659-8320-45c2-80d2-4019e8a330df.png)
+
+This two day tapeout workshop on **Phase-Locked Loop (PLL) IC design using Open-Source Google-Skywater 130nm node** involved designing a simple PLL using Open-Source tools. 
+
+The labs covered the entire IC design flow from circuit design until tapeout using Open-Source 130nm Process Design Kits (PDKs) by Google-Skywater and the latest Caravel Framework by efabless. The spice simulations were done using the [ngspice](http://ngspice.sourceforge.net/) Open-Source EDA. The Layout design and parasitic extraction were done using [Magic](http://opencircuitdesign.com/) EDA tool.
+
 
 ## Contents:
 1. Introduction to PLL

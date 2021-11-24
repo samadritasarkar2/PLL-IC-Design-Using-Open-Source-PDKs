@@ -24,6 +24,7 @@ The labs covered the entire IC design flow from circuit design until tapeout usi
 13. References
 14. Acknowledgement
 
-***
 
-## 1. Introduction to PLL
+
+## Introduction to PLL
+A phase-locked loop (PLL) is an control system that generates output signal whose phase is mimic to the phase of an input signal. It is an important Basic block for radio frequency application.

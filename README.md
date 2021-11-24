@@ -9,7 +9,7 @@ The labs covered the entire IC design flow from circuit design until tapeout usi
 
 
 ## Contents:
-1. Introduction to PLL
+1. [Introduction to PLL](#1-.-introduction-to-pll)
 2. Purpose of PLL
 3. Components of PLL
 4. Design Flow
@@ -23,3 +23,7 @@ The labs covered the entire IC design flow from circuit design until tapeout usi
 12. TapeOut
 13. References
 14. Acknowledgement
+
+***
+
+## 1. Introduction to PLL
